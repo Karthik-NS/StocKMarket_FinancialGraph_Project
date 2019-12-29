@@ -2,6 +2,7 @@
 StocKMarket_FinancialGraph_Project using PANDAS and BOKEH
 
 Datavisualization project for showing StockMarket Financial Graph using pandas dataframes and Bokeh libraries
+
 Notes:
 
 In this project we are showing financial graph, for stock market using CandleStick Chart using Pandas and Bokeh libraries.
@@ -14,4 +15,4 @@ Just like a bar chart, a daily candlestick shows the market's open, high, low, a
 
 This real body represents the price range between the open and close of that day's trading. When the real body(called as Bearish candle) is filled in red, it means the close was lower than the open. If the real body is green(Bullish candle), it means the close was higher than the open.
 
- I'm using  Apple stock data for year 2019 in this project to show Financial Graph.
+ I'm using  Apple stock data for year 2019 in this project to show Financial Graph. Graph plot attached(bokeh_plot.png).
